@@ -1,0 +1,25 @@
+[2025-02-07 21:26:42,985] VIKRAMs-MacBook-Pro.local/INFO/locust.main: Run time limit set to 10 seconds
+[2025-02-07 21:26:42,985] VIKRAMs-MacBook-Pro.local/INFO/locust.main: Starting Locust 2.20.0
+[2025-02-07 21:26:42,986] VIKRAMs-MacBook-Pro.local/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2025-02-07 21:26:42,986] VIKRAMs-MacBook-Pro.local/DEBUG/locust.runners: Ramping to {"MyLoadTest": 1} (1 total users)
+[2025-02-07 21:26:42,986] VIKRAMs-MacBook-Pro.local/DEBUG/locust.runners: Spawning additional {"MyLoadTest": 1} ({"MyLoadTest": 0} already running)...
+[2025-02-07 21:26:42,986] VIKRAMs-MacBook-Pro.local/DEBUG/locust.runners: 1 users spawned
+[2025-02-07 21:26:42,986] VIKRAMs-MacBook-Pro.local/DEBUG/locust.runners: All users of class MyLoadTest spawned
+[2025-02-07 21:26:42,986] VIKRAMs-MacBook-Pro.local/DEBUG/locust.runners: 0 users have been stopped, 1 still running
+[2025-02-07 21:26:42,986] VIKRAMs-MacBook-Pro.local/INFO/locust.runners: All users spawned: {"MyLoadTest": 1} (1 total users)
+[2025-02-07 21:26:42,987] VIKRAMs-MacBook-Pro.local/DEBUG/urllib3.connectionpool: Starting new HTTPS connection (1): example.com:443
+[2025-02-07 21:26:43,875] VIKRAMs-MacBook-Pro.local/DEBUG/urllib3.connectionpool: https://example.com:443 "GET / HTTP/1.1" 200 648
+[2025-02-07 21:26:45,167] VIKRAMs-MacBook-Pro.local/DEBUG/urllib3.connectionpool: https://example.com:443 "GET / HTTP/1.1" 200 648
+[2025-02-07 21:26:46,444] VIKRAMs-MacBook-Pro.local/DEBUG/urllib3.connectionpool: https://example.com:443 "GET / HTTP/1.1" 200 648
+[2025-02-07 21:26:47,729] VIKRAMs-MacBook-Pro.local/DEBUG/urllib3.connectionpool: https://example.com:443 "GET / HTTP/1.1" 200 648
+[2025-02-07 21:26:49,011] VIKRAMs-MacBook-Pro.local/DEBUG/urllib3.connectionpool: https://example.com:443 "GET / HTTP/1.1" 200 648
+[2025-02-07 21:26:50,305] VIKRAMs-MacBook-Pro.local/DEBUG/urllib3.connectionpool: https://example.com:443 "GET / HTTP/1.1" 200 648
+[2025-02-07 21:26:51,585] VIKRAMs-MacBook-Pro.local/DEBUG/urllib3.connectionpool: https://example.com:443 "GET / HTTP/1.1" 200 648
+[2025-02-07 21:26:52,772] VIKRAMs-MacBook-Pro.local/INFO/locust.main: --run-time limit reached, shutting down
+[2025-02-07 21:26:52,812] VIKRAMs-MacBook-Pro.local/DEBUG/locust.runners: Stopping all users (called from /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/locust/runners.py:567)
+[2025-02-07 21:26:52,813] VIKRAMs-MacBook-Pro.local/DEBUG/locust.runners: Stopping Greenlet-0
+[2025-02-07 21:26:52,813] VIKRAMs-MacBook-Pro.local/DEBUG/locust.runners: 1 users have been stopped, 0 still running
+[2025-02-07 21:26:52,842] VIKRAMs-MacBook-Pro.local/INFO/locust.main: writing html report to file: Run1
+[2025-02-07 21:26:52,844] VIKRAMs-MacBook-Pro.local/DEBUG/locust.main: Running teardowns...
+[2025-02-07 21:26:52,844] VIKRAMs-MacBook-Pro.local/INFO/locust.main: Shutting down (exit code 0)
+[2025-02-07 21:26:52,844] VIKRAMs-MacBook-Pro.local/DEBUG/locust.main: Cleaning up runner...
