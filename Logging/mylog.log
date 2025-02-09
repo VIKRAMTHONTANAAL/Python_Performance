@@ -1,0 +1,17 @@
+[2025-02-09 13:02:26,786] VIKRAMs-MacBook-Pro.local/INFO/locust.main: Run time limit set to 20 seconds
+[2025-02-09 13:02:26,786] VIKRAMs-MacBook-Pro.local/INFO/locust.main: Starting Locust 2.20.0
+[2025-02-09 13:02:26,786] VIKRAMs-MacBook-Pro.local/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2025-02-09 13:02:26,786] VIKRAMs-MacBook-Pro.local/INFO/locust.runners: All users spawned: {"LoadTest": 1} (1 total users)
+[2025-02-09 13:02:27,775] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:29,039] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:30,291] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:31,549] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:32,811] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:34,166] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:35,422] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:36,678] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:37,898] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:39,148] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:40,397] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:41,654] VIKRAMs-MacBook-Pro.local/INFO/root: Home page load success
+[2025-02-09 13:02:42,457] VIKRAMs-MacBook-Pro.local/INFO/locust.main: Shutting down (exit code 0)
